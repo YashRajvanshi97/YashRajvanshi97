@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashRajvanshi97
+- 👋 Hi, I’m YashRajvanshi
 - 👀 I’m interested in ML/Data Science/Python Developer roles.
 - 🌱 I’m currently learning ML and Selenium using Python
 - 💞️ I’m looking to collaborate on as a Python developer, where I can use my ideas, knowledge, design and development skills that can help company to grow achieve their goals.
